@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/vizai-platform-40614-40625/vizai_backend"
+}
